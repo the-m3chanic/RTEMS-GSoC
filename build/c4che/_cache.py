@@ -1,0 +1,9 @@
+ARCHS = ['sparc-rtems6', 'x86_64-rtems6']
+ARCH_BSPS = ['sparc-rtems6-erc32']
+BINDIR = '/usr/local/bin'
+LIBDIR = '/usr/local/lib'
+LONG_COMMANDS = 'no'
+PREFIX = '/usr/local'
+RTEMS_ARCH_BSP_LIST = ['sparc-rtems6-erc32']
+RTEMS_TOOLS = ['/home/the.m3chanic/quick-start/rtems/6/bin']
+SHOW_COMMANDS = 'no'
